@@ -1,0 +1,30 @@
+{
+  "name": "Training-forExam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadabudames/Training-forExam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadabudames/Training-forExam/issues"
+  },
+  "homepage": "https://github.com/ahmadabudames/Training-forExam#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.13.0",
+    "superagent": "^6.1.0"
+  }
+}
